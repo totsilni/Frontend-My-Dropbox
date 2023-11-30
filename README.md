@@ -17,6 +17,7 @@ Serverless computing is a method of providing backend services on an as-used bas
 Let's implement a file synchronization using Amplify & Lambda & S3
 
 Example of architecture:
+<img src="https://storage.googleapis.com/qwasar-public/track-web/my_dropbox.jpeg"/>
 
 
 You will have to code some lambda + a frontend app.
@@ -34,7 +35,7 @@ A fully hosted version in the cloud. (at least until the correction happened)
 The url of your project will be store inside the readme.
 
 No more than 1 components per file.
-Additionals components will be in src/components/
+Additionals components will be in `src/components/`
 
 CSS will be in a file associated to the component: css for ExampleComponent.js will be in ExampleComponent.css.
 
