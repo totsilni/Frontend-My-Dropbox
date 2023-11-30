@@ -1,3 +1,5 @@
+# Instruction how to send project to review
+- [Russian](https://github.com/bahtibek-an/Instruction-how-to-send-project-to-review/edit/main/README.md)
 # Frontend My Dropbox
 ### What is dropbox could be a serverless app?
 This is what it's all about!
